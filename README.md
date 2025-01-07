@@ -114,7 +114,7 @@ You can access the live application [here](https://asha-ai-resumebuilder.netlify
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project’s coding standards.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
 
 
 
